@@ -13,7 +13,7 @@ Complete assembled prototype showing the Arduino controller, servo motors, and b
 
 ### Internal Hardware
 
-<img width="598" height="410" alt="image" src="https://github.com/user-attachments/assets/85d0193b-5f4d-4b27-b260-8e0d43345995" />
+<img width="812" height="553" alt="image" src="https://github.com/user-attachments/assets/9fb841e1-d3bf-4955-bc22-a4bb8546ba11" />
 
 
 * Arduino Uno
