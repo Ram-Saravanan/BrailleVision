@@ -6,14 +6,14 @@ An Arduino-based refreshable braille display prototype that uses servo-actuated 
 
 ### Final Prototype
 
-![BrailleVision Prototype]<img width="429" height="372" alt="image" src="https://github.com/user-attachments/assets/ea3a489b-725b-4be6-a282-dc95147e9ca7" />
+<img width="429" height="372" alt="image" src="https://github.com/user-attachments/assets/ea3a489b-725b-4be6-a282-dc95147e9ca7" />
 
 
 Complete assembled prototype showing the Arduino controller, servo motors, and braille display mechanism.
 
 ### Internal Hardware
 
-![Internal Hardware]<img width="598" height="410" alt="image" src="https://github.com/user-attachments/assets/85d0193b-5f4d-4b27-b260-8e0d43345995" />
+<img width="598" height="410" alt="image" src="https://github.com/user-attachments/assets/85d0193b-5f4d-4b27-b260-8e0d43345995" />
 
 
 * Arduino Uno
